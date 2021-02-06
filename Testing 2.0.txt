@@ -1,1 +1,3 @@
 I am trying to edit the Testing 2.0 file. Let me know if this works at all.
+
+This is my Commit #3 changes to the file
