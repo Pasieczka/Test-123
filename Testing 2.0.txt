@@ -1,6 +1,11 @@
 I am trying to edit the Testing 2.0 file. Let me know if this works at all.
 
+<<<<<<< HEAD
 Edits
 asdfdsafa
 
 Editing again and again and again
+=======
+
+Buzz lightyear to the rescue
+>>>>>>> To-delete-later
